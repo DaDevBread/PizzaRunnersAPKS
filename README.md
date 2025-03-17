@@ -1,3 +1,3 @@
-Dont copy the game .APK or put them in unity
-when you download the .APK and use it, credit @DaDevBread
+Dont copy them in unity
+when you download it and use it, credit @DaDevBread
 Thanks for reading this!
